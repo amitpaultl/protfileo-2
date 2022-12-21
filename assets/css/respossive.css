@@ -1,0 +1,113 @@
+@media (max-width: 767.55px) {
+    .header {
+        padding: 1.2rem 0;
+    }
+}
+
+@media (max-width: 767.55px) {
+    .menu-icon {
+        display: block;
+    }
+}
+
+
+
+@media (max-width: 1199.9px) {
+    .blog-text-inner {
+        bottom: -85%;
+    }
+}
+
+@media (max-width: 767.55px) {
+    .main-menu ul li {
+        display: block;
+    }
+}
+
+@media (max-width: 991px) {
+    .main-menu ul li a {
+        padding: .8rem 1.5rem;
+    }
+}
+
+@media (max-width: 767.55px) {
+    .main-menu ul li a {
+        color: #fff;
+    }
+}
+
+
+@media (max-width: 767.55px) {
+
+
+    .main-menu.main-menu-open {
+        animation: fadeInDown .5s;
+        display: block;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 1023.5px) {
+    .header {
+        background: none;
+    }
+    section.hero-area{
+        height: 627px;
+    }
+    .hero-img{
+        display: none;
+    }
+    
+    .process-block {
+        margin-bottom: 30px;
+    }
+    .process-block h2 {
+        font-size: 33px;
+    }
+    .about-img {
+        display: none;
+    }
+    .resume-menu {
+        display: none;
+    }
+}
+
+
+@media (max-width: 767.55px) {
+    .hreo-caption p {
+        width: 336px;
+    }
+    .section-title.col-bg p {
+        width: 340px;
+    }
+    .top.mar-bot {
+        margin-bottom: 30px;
+    }
+    .Price-table {
+        margin-bottom: 30px;
+    }
+    .hreo-caption h2 {
+        font-size: 40px;
+    }
+    .about-text-title h2 {
+        font-size: 33px;
+    }
+    .section-title h2 {
+        font-size: 33px;
+    }
+    .li-blog {
+        margin-bottom: 269px;
+    }
+    .blog-text-inner {
+
+        z-index: 3;
+    }
+    .latest-blog {
+        padding: 0 0 71px;
+    }
+}
+
